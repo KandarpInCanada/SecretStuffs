@@ -10,10 +10,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<p align="center">
-   <img src="https://secret-stuffs.netlify.app/assets/icon-B0a1EbX8.png" width="200" height="200" alt="Logo"></img>
-</p>
-
 # Secret Stuffs
 
 The **Secret Stuffs** platform is designed as part of **CSCI 5308 - Advanced Topics in Software Development** at Dalhousie University. It addresses the issue of unclaimed items left on curbsides in Nova Scotia by facilitating item donations and claims.
